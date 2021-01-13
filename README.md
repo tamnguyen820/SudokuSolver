@@ -15,3 +15,6 @@ Run the command ```python main.py```.
 
 ### Author
 [Tam Nguyen](https://github.com/tamnguyen820)
+
+### Graphic credit
+Icon taken from [Flaticon](https://www.flaticon.com/)
