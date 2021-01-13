@@ -12,3 +12,6 @@ Run the command ```pip install pygame``` or ```pip install -r requirements.txt``
 
 ### Run the program
 Run the command ```python main.py```.
+
+### Author
+[Tam Nguyen](https://github.com/tamnguyen820)
