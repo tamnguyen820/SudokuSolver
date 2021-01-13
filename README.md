@@ -5,7 +5,7 @@ A Sudoku game with a feature to solve any valid board using the backtracking alg
 Follow the below steps to ensure the program runs properly.
 
 ### Install Python
-Download and install the newest version of Python (64 bit).
+Download and install the lastest version of [Python](https://www.python.org/downloads/).
 
 ### Install Pygame
 Run the command ```pip install pygame``` or ```pip install -r requirements.txt```.
