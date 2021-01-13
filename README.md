@@ -8,4 +8,7 @@ Follow the below steps to ensure the program runs properly.
 Download and install the newest version of Python (64 bit).
 
 ### Install Pygame
-Run the command 'pip install pygame'
+Run the command ```pip install pygame``` or ```pip install -r requirements.txt```.
+
+### Run the program
+Run the command ```python main.py```.
